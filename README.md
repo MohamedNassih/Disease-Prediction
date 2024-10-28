@@ -8,11 +8,12 @@ This project leverages machine learning techniques to predict various diseases u
 
 The project is structured as follows:
 Use code with caution.
+```bash
 disease-prediction-project/
 ├── test_data.csv
 ├── Train_data.csv
 └── disease_prediction.ipynb
-
+```
 ## Installation
 
 To run this project, you need to have the following libraries installed:
