@@ -43,8 +43,7 @@ To run the project, open the Jupyter notebook `disease_prediction.ipynb` and run
 
 The project achieved the following results:
 
-- The best performing model for disease prediction was [insert best model name here], with an accuracy of [insert accuracy here].
-- The most important features for disease prediction were [insert most important features here].
+- The best performing model for disease prediction was `Gradient Boosting`, with an accuracy of `98 %`.
 
 ## Conclusion
 
